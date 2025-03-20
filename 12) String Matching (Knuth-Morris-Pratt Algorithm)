@@ -46,3 +46,11 @@ int main() {
 }
 
 
+Sample Input:
+Enter text: ABCDABCDABDE
+Enter pattern: ABCDABD
+
+Sample Output:
+Pattern found at index 6
+
+
